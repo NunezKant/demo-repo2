@@ -1,3 +1,3 @@
 # This repo was made locally
 
-using the power of git init :)
+using the power of git init, remote :)
